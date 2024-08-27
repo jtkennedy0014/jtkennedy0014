@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jessica Kennedy</h1>
+<h3 align="center">Business Analysis for Hire</h3>
 
-<!--
-**jtkennedy0014/jtkennedy0014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Storytelling with Data](https://public.tableau.com/views/Jessica_Kennedy_Sprint5_Project/ReturnRateFindings?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://github.com/jtkennedy0014](https://github.com/jtkennedy0014)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Know about my experiences [https://docs.google.com/document/d/11jW-7cgNospt76d5nnZPdmm-V7ofynqtHZTbHzh0N9g/edit?usp=sharing](https://docs.google.com/document/d/11jW-7cgNospt76d5nnZPdmm-V7ofynqtHZTbHzh0N9g/edit?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://www.linkedin.com/in/jessicakennedy0014/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.linkedin.com/in/jessicakennedy0014/" height="30" width="40" /></a>
+</p>
